@@ -1,13 +1,2 @@
-{
-"name": "test",
-"profiles":["local"]
-"propertySources":[
-  {
-    "jwt":
-      "key": "5IVb9J0LeHpbqTQe25jUUAjtrSwFEHGJ5XIs9+1JcKI="
-      
-    "upload":
-      "path": "D:\File"
-  }
-]
-}
+jwt:
+  key: 5IVb9J0LeHpbqTQe25jUUAjtrSwFEHGJ5XIs9+1JcKI=
