@@ -1,12 +1,16 @@
-jwt:
-  key: 5IVb9J0LeHpbqTQe25jUUAjtrSwFEHGJ5XIs9+1JcKI=
+{
+"name": "test",
+"profiles":["local"]
+"jwt":
+  "key": 5IVb9J0LeHpbqTQe25jUUAjtrSwFEHGJ5XIs9+1JcKI=
   
-upload:
-  path: D:\File
+"upload":
+  "path": D:\File
   
-spring:
-  datasource:
-    url: jdbc:log4jdbc:mysql://localhost:3306/board-back?characterEncoding=UTF-8&serverTimezone=UTC
-    username: ansdyd23
-    password: Ka20140851!
-    driver-class-name: net.sf.log4jdbc.sql.jdbcapi.DriverSpy
+"spring":
+  "datasource":
+    "url": jdbc:log4jdbc:mysql://localhost:3306/board-back?characterEncoding=UTF-8&serverTimezone=UTC
+    "username": ansdyd23
+    "password": Ka20140851!
+    "driver-class-name": net.sf.log4jdbc.sql.jdbcapi.DriverSpy
+}
