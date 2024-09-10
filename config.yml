@@ -1,6 +1,5 @@
-spring:
-  datasource:
-    driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/serverTimezone=Asia/Seoul&useSSL=false&characterEncoding=utf8&allowPublicKeyRetrieval=true
-    username: root
-    password: root
+jwt:
+  key: 5IVb9J0LeHpbqTQe25jUUAjtrSwFEHGJ5XIs9+1JcKI=
+  
+upload:
+  path: D:\File
